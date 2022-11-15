@@ -1,0 +1,5 @@
+*.o
+*~
+stdio_sb
+a.out
+.deps
